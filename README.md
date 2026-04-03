@@ -134,7 +134,7 @@ Photo + alert caption → Your phone
 
 ## Author
 
-**Darshan DK** — [github.com/dkdarshan95](https://github.com/dkdarshan95)
+**DK Darshan ** — [github.com/dkdarshan95](https://github.com/dkdarshan95)
 
 ## License
 
